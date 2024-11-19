@@ -3,7 +3,7 @@ const app = express();
 
 
 app.get('/', (req, res) => {
-    res.send('Hello, class! Welcome to my Google Cloud Build demo!');
+    res.send('Hello');
 });
 
 
